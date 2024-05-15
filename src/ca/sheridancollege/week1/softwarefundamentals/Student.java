@@ -14,6 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @modified by Manparvesh Singh 15 May 2024 
  * a new change
  * the third change
+ * change made on GitHub remote repo
  */
 public class Student 
 {
