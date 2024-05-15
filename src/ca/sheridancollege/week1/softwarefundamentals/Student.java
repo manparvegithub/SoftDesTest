@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * a new change
  * the third change
  * change made on GitHub remote repo
+ * checking fetch and merge
  */
 public class Student 
 {
